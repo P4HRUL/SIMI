@@ -1,5 +1,3 @@
-# BOT CHAT SIMI
-
 ```
 ➠pkg update && pkg upgrade 
 ➠pkg install python
@@ -7,7 +5,7 @@
 ➠pip install requests 
 ➠pip install mechanize 
 ➠pip install bs4
-➠git clone https://github.com/P4HRUL/SIMISIMI
-➠cd SIMISIMI
+➠git clone https://github.com/P4HRUL/SIMI
+➠cd SIMI
 ➠python course.py
 ```
