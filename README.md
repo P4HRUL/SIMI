@@ -15,5 +15,7 @@
 ***bot chat simi + game kertas batu gunting***
 
 ***catatan :***
+
 ***ketik stop untuk menghentikan program.***
+
 ***ketik game untuk bermain game kertas batu gunting.***
