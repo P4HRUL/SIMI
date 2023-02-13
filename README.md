@@ -1,4 +1,4 @@
-# INSTALLERS
+### INSTALLERS
 ```
 ➠pkg update && pkg upgrade 
 ➠pkg install python
@@ -10,11 +10,7 @@
 ➠cd SIMI
 ➠python course.py
 ```
-# NOTE :
-
-***bot chat simi + game kertas batu gunting***
-
-***catatan :***
+### NOTE :
 
 ***ketik stop untuk menghentikan program.***
 
