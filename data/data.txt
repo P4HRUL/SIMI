@@ -1,0 +1,3 @@
+{
+"kamu lagi ngapain":"aku lagi mikirin kamu"
+}
