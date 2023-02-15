@@ -1,8 +1,3 @@
 {
-"Hay" : "Hay juga yang di sana",
-"Hay Ai" : "Iya sayang gimana ?",
-"Udah dulu ya gua mau off" : "Iyah jangan lupa on lagi nanti ai kangen kalau lama lama :v",
-"Kamu lagi ngapain" : "Aku lagi mikirin kamu",
-"Gua kangen sama lu" : "Iyah, sama sayang aku juga kangen sama kamu",
-"Lagi ngapain" : "lagi chattan sama kamu"
+"Hay": "Hay juga"
 }
