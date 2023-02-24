@@ -10,8 +10,3 @@
 ➠cd SIMI
 ➠python course.py
 ```
-### NOTE :
-
-***ketik stop untuk menghentikan program.***
-
-***ketik game untuk bermain game kertas batu gunting.***
